@@ -31,7 +31,7 @@ This proposal aims to provide a concrete initial governance framework for The FW
 
 - Ranked Choice Voting will be implemented.
 - All members will start with an equal weight vote.
-- We will likely want to introduce weighted voting in the future (for example, members of the EthBoston planning committee might have their votes counted more for votes related to how EthBoston operates).
+- We will likely want to introduce weighted voting in the future (for example, members of the EthDFW planning committee might have their votes counted more for votes related to how EthDFW operates).
 
 ### 3. Voting Thresholds
 
